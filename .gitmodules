@@ -1,0 +1,9 @@
+[submodule "mula"]
+	path = mula
+	url = git@github.com:w28ahmad/mula-backend.git
+[submodule "mula-frontend"]
+	path = mula-frontend
+	url = git@github.com:w28ahmad/mula-frontend.git
+[submodule "mula-store"]
+	path = mula-store
+	url = git@github.com:w28ahmad/mula-store.git
