@@ -7,3 +7,6 @@
 [submodule "mula-store"]
 	path = mula-store
 	url = git@github.com:w28ahmad/mula-store.git
+[submodule "mula-backend"]
+	path = mula-backend
+	url = https://github.com/w28ahmad/mula-backend
